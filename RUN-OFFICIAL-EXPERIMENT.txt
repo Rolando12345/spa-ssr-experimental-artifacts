@@ -1,0 +1,41 @@
+COMPLETE OFFICIAL CAMPAIGN — SPA vs SSR
+=======================================
+
+LIGHTHOUSE
+- 2 implementations x 3 pages x 5 repetitions = 30 runs
+
+RESOURCE MEASUREMENTS
+- 2 implementations x 3 pages x 5 repetitions = 30 runs
+
+K6
+- Load levels: 1, 5, 10, 25, and 50 VUs
+- Duration: 30 seconds per repetition
+- Repetitions: 5
+- Total: 150 k6 runs
+- Order: alternating SPA/SSR and SSR/SPA
+
+AUTOMATIC ORDER
+---------------
+Lighthouse -> resources -> k6
+
+Resource measurements run before the k6 stress phase to reduce the influence
+of stress-induced residual process state on CPU and RAM observations.
+
+BEFORE RUNNING
+--------------
+1. Extract this package into a new directory.
+2. Keep MySQL, Spring Boot, Angular, and Next.js running in production mode.
+3. Close IDEs, browsers, and applications unrelated to the experiment.
+4. Connect the laptop to AC power and disable sleep and hibernation.
+5. Do not use the computer during the official campaign.
+
+OFFICIAL COMMAND
+----------------
+cd C:\path\to\SPA-SSR-Experiments
+venv\Scripts\activate
+python main.py --phase all
+
+Do not add --keep-results. At startup, the pipeline removes previous results,
+tables, figures, and logs. The k6 campaign is accepted for aggregation only if
+all 150 runs are completed. Runs that exceed the experimental SLA remain valid
+evidence of degradation or saturation.

@@ -63,7 +63,7 @@ Other repository contents are:
 - `tables/`: three consolidated CSV files used for the reported tables.
 - `figures/`: figures regenerated from the consolidated results.
 - `logs/`: phase and process-identification records.
-- `README-EJECUCION.md`: original Spanish execution instructions.
+- `EXECUTION-GUIDE.md`: detailed execution instructions.
 - `SERVING-CONDITIONS.md`: observed caching, compression, and response-header
   conditions.
 
@@ -115,7 +115,7 @@ python -m pip install -r requirements.txt
 ```
 
 The original execution order and commands are documented in
-`README-EJECUCION.md`. Running a new campaign overwrites generated outputs;
+`EXECUTION-GUIDE.md`. Running a new campaign overwrites generated outputs;
 preserve the published `results`, `tables`, `figures`, and `logs` before doing
 so.
 

@@ -1,0 +1,20 @@
+RESOURCE-MEASUREMENT RECOVERY PROCEDURE
+=======================================
+
+This artifact package preserves:
+- 30 Lighthouse reports
+- 150 k6 results and 150 validation records
+- 6 navigation manifests
+
+The command below reruns only the frontend-server resource phase while
+preserving the other evidence. Run it with Angular, Next.js, Spring Boot, and
+MySQL active:
+
+    venv\Scripts\activate
+    python main.py --phase costs --keep-results
+
+Do not omit --keep-results because it preserves Lighthouse, k6, and the
+navigation manifests used to reproduce the resource-measurement transactions.
+
+The process is marked invalid unless exactly one node.exe process is LISTENING
+on port 4200 (serve) or port 3000 (next start). PID 0 and PID 4 are rejected.

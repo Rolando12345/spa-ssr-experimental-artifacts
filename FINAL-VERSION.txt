@@ -1,0 +1,28 @@
+Version: 3.2.0-final-calibrated
+Date: 2026-08-14
+
+Main methodological revisions:
+
+1. Cold HTTP navigations reconstructed from valid Lighthouse traces.
+2. k6 metrics calculated for complete HTTP transactions.
+3. Equal fixed arrival rate for SPA and SSR resource measurements.
+4. CPU and network diagnostics normalized by successful transaction.
+5. AB/BA alternation in Lighthouse, k6, and resource measurements.
+6. Partial campaigns marked as incomplete and excluded from publication.
+7. Previous results excluded to prevent mixing campaigns.
+8. Windows-compatible resolution of lighthouse.cmd.
+9. Static resources and data requests replayed in concurrent stages.
+10. Per-resource timeout and graceful period for k6 transactions.
+11. Every started transaction recorded, including failed stages.
+12. Calibrated official loads: 1, 5, 10, 25, and 50 VUs.
+13. Official duration of 30 seconds per repetition.
+14. Selective k6 cleanup that preserves Lighthouse and resource results.
+15. Limit of 10 requests per batch and 6 concurrent connections per host.
+16. Explicit stop when a frontend fails its warm-up health check.
+17. Resource monitoring accepts only node.exe in LISTEN state and rejects
+    PID 0 and PID 4.
+18. Process identity revalidated before saving and processing each run.
+19. Resource measurements run before k6 to reduce stress-state carryover.
+20. The k6 campaign is rejected if it does not complete all 150 expected runs.
+
+Read EXECUTION-GUIDE.md before running the pipeline.
