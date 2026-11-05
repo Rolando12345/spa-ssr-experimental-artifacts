@@ -1,0 +1,64 @@
+[2026-08-18 08:32:49] ============================================================
+[2026-08-18 08:32:49] COST EXPERIMENT STARTED
+[2026-08-18 08:33:34] SUCCESS | SPA | Dashboard | Run 1
+[2026-08-18 08:33:34] PROCESS | SPA | Dashboard | Run 1 | [{'pid': 10432, 'parent_pid': 8788, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\spa-ventas\\node_modules\\.bin\\\\..\\serve\\build\\main.js', '-s', 'dist\\spa-ventas\\browser', '-l', '4200']}]
+[2026-08-18 08:34:46] SUCCESS | SSR | Dashboard | Run 1
+[2026-08-18 08:34:46] PROCESS | SSR | Dashboard | Run 1 | [{'pid': 6468, 'parent_pid': 1224, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\sales-ssr\\node_modules\\.bin\\\\..\\next\\dist\\bin\\next', 'start', '-p', '3000']}]
+[2026-08-18 08:35:56] SUCCESS | SSR | Dashboard | Run 2
+[2026-08-18 08:35:56] PROCESS | SSR | Dashboard | Run 2 | [{'pid': 6468, 'parent_pid': 1224, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\sales-ssr\\node_modules\\.bin\\\\..\\next\\dist\\bin\\next', 'start', '-p', '3000']}]
+[2026-08-18 08:36:58] SUCCESS | SPA | Dashboard | Run 2
+[2026-08-18 08:36:58] PROCESS | SPA | Dashboard | Run 2 | [{'pid': 10432, 'parent_pid': 8788, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\spa-ventas\\node_modules\\.bin\\\\..\\serve\\build\\main.js', '-s', 'dist\\spa-ventas\\browser', '-l', '4200']}]
+[2026-08-18 08:37:58] SUCCESS | SPA | Dashboard | Run 3
+[2026-08-18 08:37:58] PROCESS | SPA | Dashboard | Run 3 | [{'pid': 10432, 'parent_pid': 8788, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\spa-ventas\\node_modules\\.bin\\\\..\\serve\\build\\main.js', '-s', 'dist\\spa-ventas\\browser', '-l', '4200']}]
+[2026-08-18 08:39:06] SUCCESS | SSR | Dashboard | Run 3
+[2026-08-18 08:39:06] PROCESS | SSR | Dashboard | Run 3 | [{'pid': 6468, 'parent_pid': 1224, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\sales-ssr\\node_modules\\.bin\\\\..\\next\\dist\\bin\\next', 'start', '-p', '3000']}]
+[2026-08-18 08:40:15] SUCCESS | SSR | Dashboard | Run 4
+[2026-08-18 08:40:15] PROCESS | SSR | Dashboard | Run 4 | [{'pid': 6468, 'parent_pid': 1224, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\sales-ssr\\node_modules\\.bin\\\\..\\next\\dist\\bin\\next', 'start', '-p', '3000']}]
+[2026-08-18 08:41:16] SUCCESS | SPA | Dashboard | Run 4
+[2026-08-18 08:41:16] PROCESS | SPA | Dashboard | Run 4 | [{'pid': 10432, 'parent_pid': 8788, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\spa-ventas\\node_modules\\.bin\\\\..\\serve\\build\\main.js', '-s', 'dist\\spa-ventas\\browser', '-l', '4200']}]
+[2026-08-18 08:42:16] SUCCESS | SPA | Dashboard | Run 5
+[2026-08-18 08:42:16] PROCESS | SPA | Dashboard | Run 5 | [{'pid': 10432, 'parent_pid': 8788, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\spa-ventas\\node_modules\\.bin\\\\..\\serve\\build\\main.js', '-s', 'dist\\spa-ventas\\browser', '-l', '4200']}]
+[2026-08-18 08:43:26] SUCCESS | SSR | Dashboard | Run 5
+[2026-08-18 08:43:26] PROCESS | SSR | Dashboard | Run 5 | [{'pid': 6468, 'parent_pid': 1224, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\sales-ssr\\node_modules\\.bin\\\\..\\next\\dist\\bin\\next', 'start', '-p', '3000']}]
+[2026-08-18 08:44:27] SUCCESS | SPA | Inventory | Run 1
+[2026-08-18 08:44:27] PROCESS | SPA | Inventory | Run 1 | [{'pid': 10432, 'parent_pid': 8788, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\spa-ventas\\node_modules\\.bin\\\\..\\serve\\build\\main.js', '-s', 'dist\\spa-ventas\\browser', '-l', '4200']}]
+[2026-08-18 08:45:41] SUCCESS | SSR | Inventory | Run 1
+[2026-08-18 08:45:41] PROCESS | SSR | Inventory | Run 1 | [{'pid': 6468, 'parent_pid': 1224, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\sales-ssr\\node_modules\\.bin\\\\..\\next\\dist\\bin\\next', 'start', '-p', '3000']}]
+[2026-08-18 08:46:50] SUCCESS | SSR | Inventory | Run 2
+[2026-08-18 08:46:50] PROCESS | SSR | Inventory | Run 2 | [{'pid': 6468, 'parent_pid': 1224, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\sales-ssr\\node_modules\\.bin\\\\..\\next\\dist\\bin\\next', 'start', '-p', '3000']}]
+[2026-08-18 08:47:50] SUCCESS | SPA | Inventory | Run 2
+[2026-08-18 08:47:50] PROCESS | SPA | Inventory | Run 2 | [{'pid': 10432, 'parent_pid': 8788, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\spa-ventas\\node_modules\\.bin\\\\..\\serve\\build\\main.js', '-s', 'dist\\spa-ventas\\browser', '-l', '4200']}]
+[2026-08-18 08:48:51] SUCCESS | SPA | Inventory | Run 3
+[2026-08-18 08:48:51] PROCESS | SPA | Inventory | Run 3 | [{'pid': 10432, 'parent_pid': 8788, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\spa-ventas\\node_modules\\.bin\\\\..\\serve\\build\\main.js', '-s', 'dist\\spa-ventas\\browser', '-l', '4200']}]
+[2026-08-18 08:50:00] SUCCESS | SSR | Inventory | Run 3
+[2026-08-18 08:50:00] PROCESS | SSR | Inventory | Run 3 | [{'pid': 6468, 'parent_pid': 1224, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\sales-ssr\\node_modules\\.bin\\\\..\\next\\dist\\bin\\next', 'start', '-p', '3000']}]
+[2026-08-18 08:51:07] SUCCESS | SSR | Inventory | Run 4
+[2026-08-18 08:51:07] PROCESS | SSR | Inventory | Run 4 | [{'pid': 6468, 'parent_pid': 1224, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\sales-ssr\\node_modules\\.bin\\\\..\\next\\dist\\bin\\next', 'start', '-p', '3000']}]
+[2026-08-18 08:52:07] SUCCESS | SPA | Inventory | Run 4
+[2026-08-18 08:52:07] PROCESS | SPA | Inventory | Run 4 | [{'pid': 10432, 'parent_pid': 8788, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\spa-ventas\\node_modules\\.bin\\\\..\\serve\\build\\main.js', '-s', 'dist\\spa-ventas\\browser', '-l', '4200']}]
+[2026-08-18 08:53:08] SUCCESS | SPA | Inventory | Run 5
+[2026-08-18 08:53:08] PROCESS | SPA | Inventory | Run 5 | [{'pid': 10432, 'parent_pid': 8788, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\spa-ventas\\node_modules\\.bin\\\\..\\serve\\build\\main.js', '-s', 'dist\\spa-ventas\\browser', '-l', '4200']}]
+[2026-08-18 08:54:17] SUCCESS | SSR | Inventory | Run 5
+[2026-08-18 08:54:17] PROCESS | SSR | Inventory | Run 5 | [{'pid': 6468, 'parent_pid': 1224, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\sales-ssr\\node_modules\\.bin\\\\..\\next\\dist\\bin\\next', 'start', '-p', '3000']}]
+[2026-08-18 08:55:17] SUCCESS | SPA | Sales | Run 1
+[2026-08-18 08:55:17] PROCESS | SPA | Sales | Run 1 | [{'pid': 10432, 'parent_pid': 8788, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\spa-ventas\\node_modules\\.bin\\\\..\\serve\\build\\main.js', '-s', 'dist\\spa-ventas\\browser', '-l', '4200']}]
+[2026-08-18 08:56:26] SUCCESS | SSR | Sales | Run 1
+[2026-08-18 08:56:26] PROCESS | SSR | Sales | Run 1 | [{'pid': 6468, 'parent_pid': 1224, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\sales-ssr\\node_modules\\.bin\\\\..\\next\\dist\\bin\\next', 'start', '-p', '3000']}]
+[2026-08-18 08:57:35] SUCCESS | SSR | Sales | Run 2
+[2026-08-18 08:57:35] PROCESS | SSR | Sales | Run 2 | [{'pid': 6468, 'parent_pid': 1224, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\sales-ssr\\node_modules\\.bin\\\\..\\next\\dist\\bin\\next', 'start', '-p', '3000']}]
+[2026-08-18 08:58:36] SUCCESS | SPA | Sales | Run 2
+[2026-08-18 08:58:36] PROCESS | SPA | Sales | Run 2 | [{'pid': 10432, 'parent_pid': 8788, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\spa-ventas\\node_modules\\.bin\\\\..\\serve\\build\\main.js', '-s', 'dist\\spa-ventas\\browser', '-l', '4200']}]
+[2026-08-18 08:59:37] SUCCESS | SPA | Sales | Run 3
+[2026-08-18 08:59:37] PROCESS | SPA | Sales | Run 3 | [{'pid': 10432, 'parent_pid': 8788, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\spa-ventas\\node_modules\\.bin\\\\..\\serve\\build\\main.js', '-s', 'dist\\spa-ventas\\browser', '-l', '4200']}]
+[2026-08-18 09:00:45] SUCCESS | SSR | Sales | Run 3
+[2026-08-18 09:00:45] PROCESS | SSR | Sales | Run 3 | [{'pid': 6468, 'parent_pid': 1224, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\sales-ssr\\node_modules\\.bin\\\\..\\next\\dist\\bin\\next', 'start', '-p', '3000']}]
+[2026-08-18 09:01:54] SUCCESS | SSR | Sales | Run 4
+[2026-08-18 09:01:54] PROCESS | SSR | Sales | Run 4 | [{'pid': 6468, 'parent_pid': 1224, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\sales-ssr\\node_modules\\.bin\\\\..\\next\\dist\\bin\\next', 'start', '-p', '3000']}]
+[2026-08-18 09:02:55] SUCCESS | SPA | Sales | Run 4
+[2026-08-18 09:02:55] PROCESS | SPA | Sales | Run 4 | [{'pid': 10432, 'parent_pid': 8788, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\spa-ventas\\node_modules\\.bin\\\\..\\serve\\build\\main.js', '-s', 'dist\\spa-ventas\\browser', '-l', '4200']}]
+[2026-08-18 09:03:56] SUCCESS | SPA | Sales | Run 5
+[2026-08-18 09:03:56] PROCESS | SPA | Sales | Run 5 | [{'pid': 10432, 'parent_pid': 8788, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\spa-ventas\\node_modules\\.bin\\\\..\\serve\\build\\main.js', '-s', 'dist\\spa-ventas\\browser', '-l', '4200']}]
+[2026-08-18 09:05:05] SUCCESS | SSR | Sales | Run 5
+[2026-08-18 09:05:05] PROCESS | SSR | Sales | Run 5 | [{'pid': 6468, 'parent_pid': 1224, 'name': 'node.exe', 'command_line': ['node', 'C:\\Users\\ROLO\\Videos\\sales-ssr\\node_modules\\.bin\\\\..\\next\\dist\\bin\\next', 'start', '-p', '3000']}]
+[2026-08-18 09:05:20] COST EXPERIMENT FINISHED
+[2026-08-18 09:05:20] ============================================================

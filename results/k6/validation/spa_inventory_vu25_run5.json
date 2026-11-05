@@ -1,0 +1,21 @@
+{
+    "architecture": "SPA",
+    "page": "Inventory",
+    "vus": 25,
+    "run": 5,
+    "execution_complete": true,
+    "valid": true,
+    "sla_met": true,
+    "reason": "execution complete; SLA met",
+    "http_requests": 6670,
+    "transactions": 667,
+    "http_200_passes": 6670,
+    "http_200_fails": 0,
+    "error_rate": 0.0,
+    "p95_ms": 523.4999999999997,
+    "checks_rate": 1,
+    "k6_exit_code": 0,
+    "elapsed_seconds": 31.58,
+    "recovery_seconds": 0.04,
+    "execution_order": 89
+}

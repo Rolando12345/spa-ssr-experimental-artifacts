@@ -1,0 +1,52 @@
+{
+  "architecture": "SPA",
+  "page": "Sales",
+  "model": "cold navigation reconstructed from Lighthouse network trace",
+  "source_report": "results\\spa\\sales\\sales_5.json",
+  "requests": [
+    {
+      "url": "http://localhost:4200/sales",
+      "resource_type": "Document"
+    },
+    {
+      "url": "http://localhost:4200/chunk-GZPLOB5R.js",
+      "resource_type": "Script"
+    },
+    {
+      "url": "http://localhost:4200/chunk-V3T5Y7AJ.js",
+      "resource_type": "Script"
+    },
+    {
+      "url": "http://localhost:4200/polyfills-5CFQRCPP.js",
+      "resource_type": "Script"
+    },
+    {
+      "url": "http://localhost:4200/main-T6ADUFYG.js",
+      "resource_type": "Script"
+    },
+    {
+      "url": "http://localhost:4200/styles-M55F35H6.css",
+      "resource_type": "Stylesheet"
+    },
+    {
+      "url": "http://localhost:4200/chunk-5GM6PSKM.js",
+      "resource_type": "Script"
+    },
+    {
+      "url": "http://localhost:4200/chunk-NZBAT5NH.js",
+      "resource_type": "Script"
+    },
+    {
+      "url": "http://localhost:4200/favicon.ico",
+      "resource_type": "Other"
+    },
+    {
+      "url": "http://localhost:4200/chunk-HTO3YIAZ.js",
+      "resource_type": "Script"
+    },
+    {
+      "url": "http://localhost:8080/api/ventas",
+      "resource_type": "XHR"
+    }
+  ]
+}

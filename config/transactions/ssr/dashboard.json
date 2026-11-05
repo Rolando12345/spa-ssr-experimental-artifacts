@@ -1,0 +1,52 @@
+{
+  "architecture": "SSR",
+  "page": "Dashboard",
+  "model": "cold navigation reconstructed from Lighthouse network trace",
+  "source_report": "results\\ssr\\dashboard\\dashboard_5.json",
+  "requests": [
+    {
+      "url": "http://localhost:3000/dashboard",
+      "resource_type": "Document"
+    },
+    {
+      "url": "http://localhost:3000/_next/static/css/93d8e0dc593ba523.css",
+      "resource_type": "Stylesheet"
+    },
+    {
+      "url": "http://localhost:3000/_next/static/chunks/webpack-7fa8c10b4e206502.js",
+      "resource_type": "Script"
+    },
+    {
+      "url": "http://localhost:3000/_next/static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "resource_type": "Script"
+    },
+    {
+      "url": "http://localhost:3000/_next/static/chunks/255-40634877ae3e8e9d.js",
+      "resource_type": "Script"
+    },
+    {
+      "url": "http://localhost:3000/_next/static/chunks/main-app-e2eda473196eb546.js",
+      "resource_type": "Script"
+    },
+    {
+      "url": "http://localhost:3000/_next/static/chunks/app/layout-1f1f49ae0d677b65.js",
+      "resource_type": "Script"
+    },
+    {
+      "url": "http://localhost:3000/_next/static/media/e4af272ccee01ff0-s.p.woff2",
+      "resource_type": "Font"
+    },
+    {
+      "url": "http://localhost:3000/favicon.ico",
+      "resource_type": "Other"
+    },
+    {
+      "url": "http://localhost:3000/inventory?_rsc=skepm",
+      "resource_type": "Fetch"
+    },
+    {
+      "url": "http://localhost:3000/sales?_rsc=skepm",
+      "resource_type": "Fetch"
+    }
+  ]
+}

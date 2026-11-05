@@ -1,0 +1,21 @@
+{
+    "architecture": "SSR",
+    "page": "Sales",
+    "vus": 1,
+    "run": 1,
+    "execution_complete": true,
+    "valid": true,
+    "sla_met": true,
+    "reason": "execution complete; SLA met",
+    "http_requests": 132,
+    "transactions": 11,
+    "http_200_passes": 132,
+    "http_200_fails": 0,
+    "error_rate": 0.0,
+    "p95_ms": 1994.5,
+    "checks_rate": 1,
+    "k6_exit_code": 0,
+    "elapsed_seconds": 32.03,
+    "recovery_seconds": 0.98,
+    "execution_order": 102
+}

@@ -1,0 +1,70 @@
+[2026-08-18 08:21:17] Checking SPA server...
+[2026-08-18 08:21:17] SPA server ONLINE
+[2026-08-18 08:21:17] Checking SSR server...
+[2026-08-18 08:21:18] SSR server ONLINE
+----------------------------------------------------------------------
+[2026-08-18 08:21:18] LIGHTHOUSE EXPERIMENT STARTED
+----------------------------------------------------------------------
+[2026-08-18 08:22:28] SUCCESS | SPA | Dashboard | Run 1
+[2026-08-18 08:22:28] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SPA | Dashboard | Run 1
+[2026-08-18 08:22:51] SUCCESS | SSR | Dashboard | Run 1
+[2026-08-18 08:22:51] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SSR | Dashboard | Run 1
+[2026-08-18 08:23:13] SUCCESS | SSR | Dashboard | Run 2
+[2026-08-18 08:23:13] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SSR | Dashboard | Run 2
+[2026-08-18 08:23:34] SUCCESS | SPA | Dashboard | Run 2
+[2026-08-18 08:23:34] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SPA | Dashboard | Run 2
+[2026-08-18 08:23:54] SUCCESS | SPA | Dashboard | Run 3
+[2026-08-18 08:23:54] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SPA | Dashboard | Run 3
+[2026-08-18 08:24:16] SUCCESS | SSR | Dashboard | Run 3
+[2026-08-18 08:24:16] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SSR | Dashboard | Run 3
+[2026-08-18 08:24:38] SUCCESS | SSR | Dashboard | Run 4
+[2026-08-18 08:24:38] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SSR | Dashboard | Run 4
+[2026-08-18 08:24:59] SUCCESS | SPA | Dashboard | Run 4
+[2026-08-18 08:24:59] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SPA | Dashboard | Run 4
+[2026-08-18 08:25:20] SUCCESS | SPA | Dashboard | Run 5
+[2026-08-18 08:25:20] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SPA | Dashboard | Run 5
+[2026-08-18 08:25:42] SUCCESS | SSR | Dashboard | Run 5
+[2026-08-18 08:25:42] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SSR | Dashboard | Run 5
+[2026-08-18 08:26:02] SUCCESS | SPA | Inventory | Run 1
+[2026-08-18 08:26:02] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SPA | Inventory | Run 1
+[2026-08-18 08:26:23] SUCCESS | SSR | Inventory | Run 1
+[2026-08-18 08:26:23] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SSR | Inventory | Run 1
+[2026-08-18 08:26:43] SUCCESS | SSR | Inventory | Run 2
+[2026-08-18 08:26:43] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SSR | Inventory | Run 2
+[2026-08-18 08:27:03] SUCCESS | SPA | Inventory | Run 2
+[2026-08-18 08:27:03] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SPA | Inventory | Run 2
+[2026-08-18 08:27:23] SUCCESS | SPA | Inventory | Run 3
+[2026-08-18 08:27:23] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SPA | Inventory | Run 3
+[2026-08-18 08:27:43] SUCCESS | SSR | Inventory | Run 3
+[2026-08-18 08:27:43] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SSR | Inventory | Run 3
+[2026-08-18 08:28:03] SUCCESS | SSR | Inventory | Run 4
+[2026-08-18 08:28:03] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SSR | Inventory | Run 4
+[2026-08-18 08:28:23] SUCCESS | SPA | Inventory | Run 4
+[2026-08-18 08:28:23] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SPA | Inventory | Run 4
+[2026-08-18 08:28:43] SUCCESS | SPA | Inventory | Run 5
+[2026-08-18 08:28:43] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SPA | Inventory | Run 5
+[2026-08-18 08:29:03] SUCCESS | SSR | Inventory | Run 5
+[2026-08-18 08:29:03] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SSR | Inventory | Run 5
+[2026-08-18 08:29:24] SUCCESS | SPA | Sales | Run 1
+[2026-08-18 08:29:24] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SPA | Sales | Run 1
+[2026-08-18 08:29:47] SUCCESS | SSR | Sales | Run 1
+[2026-08-18 08:29:47] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SSR | Sales | Run 1
+[2026-08-18 08:30:09] SUCCESS | SSR | Sales | Run 2
+[2026-08-18 08:30:09] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SSR | Sales | Run 2
+[2026-08-18 08:30:29] SUCCESS | SPA | Sales | Run 2
+[2026-08-18 08:30:29] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SPA | Sales | Run 2
+[2026-08-18 08:30:50] SUCCESS | SPA | Sales | Run 3
+[2026-08-18 08:30:50] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SPA | Sales | Run 3
+[2026-08-18 08:31:12] SUCCESS | SSR | Sales | Run 3
+[2026-08-18 08:31:12] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SSR | Sales | Run 3
+[2026-08-18 08:31:35] SUCCESS | SSR | Sales | Run 4
+[2026-08-18 08:31:35] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SSR | Sales | Run 4
+[2026-08-18 08:31:55] SUCCESS | SPA | Sales | Run 4
+[2026-08-18 08:31:55] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SPA | Sales | Run 4
+[2026-08-18 08:32:16] SUCCESS | SPA | Sales | Run 5
+[2026-08-18 08:32:16] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SPA | Sales | Run 5
+[2026-08-18 08:32:38] SUCCESS | SSR | Sales | Run 5
+[2026-08-18 08:32:38] NOTICE | valid JSON retained despite Chrome temporary cleanup return code | SSR | Sales | Run 5
+----------------------------------------------------------------------
+[2026-08-18 08:32:43] LIGHTHOUSE EXPERIMENT FINISHED
+----------------------------------------------------------------------

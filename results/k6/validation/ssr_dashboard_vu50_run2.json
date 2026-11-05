@@ -1,0 +1,21 @@
+{
+    "architecture": "SSR",
+    "page": "Dashboard",
+    "vus": 50,
+    "run": 2,
+    "execution_complete": true,
+    "valid": true,
+    "sla_met": false,
+    "reason": "execution complete; SLA not met: error rate 1.0000 exceeded 0.20; P95 21345.70 ms exceeded 2000 ms; no HTTP 200 response was recorded",
+    "http_requests": 100,
+    "transactions": 100,
+    "http_200_passes": 0,
+    "http_200_fails": 100,
+    "error_rate": 1.0,
+    "p95_ms": 21345.7,
+    "checks_rate": 0,
+    "k6_exit_code": 0,
+    "elapsed_seconds": 42.57,
+    "recovery_seconds": 1.09,
+    "execution_order": 43
+}

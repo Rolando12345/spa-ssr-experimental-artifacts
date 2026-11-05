@@ -1,0 +1,21 @@
+{
+    "architecture": "SSR",
+    "page": "Dashboard",
+    "vus": 1,
+    "run": 3,
+    "execution_complete": true,
+    "valid": true,
+    "sla_met": true,
+    "reason": "execution complete; SLA met",
+    "http_requests": 121,
+    "transactions": 11,
+    "http_200_passes": 121,
+    "http_200_fails": 0,
+    "error_rate": 0.0,
+    "p95_ms": 1886.5,
+    "checks_rate": 1,
+    "k6_exit_code": 0,
+    "elapsed_seconds": 31.6,
+    "recovery_seconds": 0.88,
+    "execution_order": 6
+}

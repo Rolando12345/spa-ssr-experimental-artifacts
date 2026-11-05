@@ -1,0 +1,21 @@
+{
+    "architecture": "SPA",
+    "page": "Dashboard",
+    "vus": 50,
+    "run": 4,
+    "execution_complete": true,
+    "valid": true,
+    "sla_met": false,
+    "reason": "execution complete; SLA not met: error rate 0.6495 exceeded 0.20; P95 29063.00 ms exceeded 2000 ms",
+    "http_requests": 1136,
+    "transactions": 97,
+    "http_200_passes": 916,
+    "http_200_fails": 63,
+    "error_rate": 0.6494845360824743,
+    "p95_ms": 29063.0,
+    "checks_rate": 0.9356486210418795,
+    "k6_exit_code": 0,
+    "elapsed_seconds": 57.69,
+    "recovery_seconds": 0.02,
+    "execution_order": 48
+}

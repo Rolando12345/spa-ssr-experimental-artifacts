@@ -1,0 +1,21 @@
+{
+    "architecture": "SSR",
+    "page": "Inventory",
+    "vus": 25,
+    "run": 2,
+    "execution_complete": true,
+    "valid": true,
+    "sla_met": false,
+    "reason": "execution complete; SLA not met: error rate 0.7692 exceeded 0.20; P95 26392.65 ms exceeded 2000 ms",
+    "http_requests": 402,
+    "transactions": 52,
+    "http_200_passes": 339,
+    "http_200_fails": 40,
+    "error_rate": 0.7692307692307693,
+    "p95_ms": 26392.649999999998,
+    "checks_rate": 0.8944591029023746,
+    "k6_exit_code": 0,
+    "elapsed_seconds": 49.68,
+    "recovery_seconds": 0.07,
+    "execution_order": 83
+}

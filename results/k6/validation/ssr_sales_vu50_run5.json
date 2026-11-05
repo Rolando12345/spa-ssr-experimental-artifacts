@@ -1,0 +1,21 @@
+{
+    "architecture": "SSR",
+    "page": "Sales",
+    "vus": 50,
+    "run": 5,
+    "execution_complete": true,
+    "valid": true,
+    "sla_met": false,
+    "reason": "execution complete; SLA not met: error rate 1.0000 exceeded 0.20; P95 25483.60 ms exceeded 2000 ms",
+    "http_requests": 254,
+    "transactions": 100,
+    "http_200_passes": 140,
+    "http_200_fails": 100,
+    "error_rate": 1.0,
+    "p95_ms": 25483.6,
+    "checks_rate": 0.5833333333333334,
+    "k6_exit_code": 0,
+    "elapsed_seconds": 47.53,
+    "recovery_seconds": 0.86,
+    "execution_order": 150
+}

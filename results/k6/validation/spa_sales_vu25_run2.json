@@ -1,0 +1,21 @@
+{
+    "architecture": "SPA",
+    "page": "Sales",
+    "vus": 25,
+    "run": 2,
+    "execution_complete": true,
+    "valid": true,
+    "sla_met": false,
+    "reason": "execution complete; SLA not met: P95 16868.25 ms exceeded 2000 ms",
+    "http_requests": 726,
+    "transactions": 66,
+    "http_200_passes": 718,
+    "http_200_fails": 8,
+    "error_rate": 0.12121212121212122,
+    "p95_ms": 16868.25,
+    "checks_rate": 0.9889807162534435,
+    "k6_exit_code": 0,
+    "elapsed_seconds": 42.07,
+    "recovery_seconds": 0.02,
+    "execution_order": 134
+}
